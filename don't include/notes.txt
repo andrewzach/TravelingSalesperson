@@ -1,0 +1,39 @@
+Lat:  53.421	Long:  -6.270
+
+430.263
+110
+521
+
+HND
+MOW
+DUT
+RLO
+JFK
+
+Tokyo Intl: x: 959	y: 163
+MOW: x: 652	y: 102
+RLO Aeropuerto Internacional Valle del Conlara: x: 344	y: 367
+JFK John F Kennedy Intl: x: 318	y: 148
+DUT Unalaska: x: 40	y: 108
+HND Tokyo Intl: x: 959	y: 163
+
+55
+919
+
+x distance = x1 + (1080-x2)
+
+plot from airport 1 to y1+ (x1 * slope)
+plot from 1080x, y1 + (x1* slope) to airport 2
+
+Luzhou Airport: x: 856	y: 183
+Unalaska: x: 40	y: 108
+
+x1 856, y1 183
+x2 40   y2 108
+
+-75
+DUB
+AAL
+LZO
+DUT
+JFK
