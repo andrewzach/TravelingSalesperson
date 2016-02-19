@@ -1,6 +1,15 @@
-# TravelingSalesperson
-A school project completed for my Intro to Object Oriented Software Development class. A solution to a variant of the traveling salesperson problem.
-Description of assignment is below:
+# Traveling Salesperson
+A school project completed for my Intro to Object Oriented Software Development class. A solution to a variant of the travelling salesperson problem involving calculating the cheapest route between airports. Includes a GUI, file input/output, robust exception handling, and a custom mapping feature that plots results on a world map. Written in Python 3.4. 
+
+## Screenshots
+##### Route mapping
+![alt tag](https://github.com/andrewzach/TravelingSalesperson/raw/master/gui_screenshot1.png)
+
+##### Multiple routes from a file
+![alt tag](https://github.com/andrewzach/TravelingSalesperson/raw/master/gui_screenshot2.png)
+
+##### Airport search and mapping
+![alt tag](https://github.com/andrewzach/TravelingSalesperson/raw/master/gui_screenshot3.png)
 
 ## Problem Statement	   
  
